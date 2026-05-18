@@ -1,4 +1,4 @@
-````markdown
+
 # 🌍 Smart Translator
 
 A modern AI-powered multilingual translator built using Python and CustomTkinter.
@@ -138,4 +138,4 @@ This project combines:
 - Modern UI Design
 
 into a single interactive desktop application.
-````
+
