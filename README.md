@@ -122,12 +122,6 @@ smart-translator/
 
 ---
 
-# 👩‍💻 Author
-
-Jahnvi Srivastava
-
----
-
 # 🌟 Project Highlights
 
 This project combines:
@@ -138,4 +132,13 @@ This project combines:
 - Modern UI Design
 
 into a single interactive desktop application.
+---
+
+# 👩‍💻 Author
+
+Jahnvi Srivastava
+
+---
+
+
 
