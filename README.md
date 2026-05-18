@@ -104,8 +104,8 @@ python main.py
 smart-translator/
 │
 ├── main.py
-├── README.md
-└── requirements.txt
+
+
 ```
 
 ---
