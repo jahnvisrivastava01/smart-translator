@@ -1,4 +1,3 @@
-
 # 🌍 Smart Translator
 
 A modern AI-powered multilingual translator built using Python and CustomTkinter.
