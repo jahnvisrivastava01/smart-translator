@@ -32,7 +32,7 @@ Smart Translator allows users to translate text between multiple languages with 
 
 ---
 
-# 🌍 Supported Languages
+# Supported Languages
 
 - English
 - French
