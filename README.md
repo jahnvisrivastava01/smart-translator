@@ -19,7 +19,7 @@ Smart Translator allows users to translate text between multiple languages with 
 
 ---
 
-# 🧠 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |---|---|
